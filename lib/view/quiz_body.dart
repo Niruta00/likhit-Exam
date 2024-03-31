@@ -88,7 +88,7 @@ class QuizBody extends StatelessWidget {
                           }
                         },
                         style: ElevatedButton.styleFrom(
-                          primary: Colors.teal,
+                          // primary: Colors.teal,
                           padding: EdgeInsets.symmetric(horizontal: 32.0, vertical: 16.0),
                           shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(10.0),

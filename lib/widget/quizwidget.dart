@@ -36,7 +36,7 @@ class OptionsWidget extends StatelessWidget {
               }
             },
             style: TextButton.styleFrom(
-              primary: Colors.black,
+              // primary: Colors.black,
               padding: EdgeInsets.all(16.0),
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(8.0),
