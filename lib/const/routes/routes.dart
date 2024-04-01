@@ -5,5 +5,9 @@ class Routes {
   static const String giveexam = "/giveexam";
   static const String choosesets = "choosesets";
   static const String quizresult = "quizresults";
+  static const String trafficsign = "/trafficsign";
+  static const String newws = "/news";
+
+
 
 }

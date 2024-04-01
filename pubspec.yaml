@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   provider: ^6.1.2
   image_compare_slider: ^2.8.0
+  google_fonts: ^6.2.1
 
 dev_dependencies:
   flutter_test:
@@ -64,6 +65,8 @@ flutter:
   assets:
     - assets/images/
     - assets/icons/
+    - assets/images/order_sign/
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

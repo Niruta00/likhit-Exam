@@ -136,7 +136,7 @@ class _HomeScreenState extends State<HomeScreen>
                   body:
                       'ट्राफिक नियम पालन गरौं, सधैं सचेत रहौं, जीवनमा सुरक्षित गरौं, यातायात संकेतहरू लागू गरौं।',
                   onTap: () {
-                    // Navigator.pushNamed(context, Routes.faceModification);
+                    Navigator.pushNamed(context, Routes.trafficsign);
                   },
                 ),
                 HomeContainer(
@@ -160,7 +160,7 @@ class _HomeScreenState extends State<HomeScreen>
                   body:
                       'थाप जानकारीको लागि यहाँ तिच्नुहोस्।',
                   onTap: () {
-                    // Navigator.pushNamed(context, Routes.imageColorizer);
+                    Navigator.pushNamed(context, Routes.newws);
                   },
                 ),
                 HomeContainer(
